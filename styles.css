@@ -1,0 +1,73 @@
+.title { 
+  font-size: 100px;
+  background-color: red;
+}
+
+ul {
+  display: flex;
+  border-width: 5px;
+  border-style: solid;
+  border-color: red;
+  border-radius: 50px;
+  /* margin: 10px; */
+  height: 10px;
+  width: 97%;
+  background-color: rebeccapurple;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+
+}
+
+
+
+div.absolute {
+  position: absolute;
+  top: 80px;
+  right: 0;
+  width: 200px;
+  height: 20px;
+  border: 3px solid;
+
+}
+
+body {
+  font-family: 'Times New Roman';
+  background-color: rgb(159, 181, 247);
+  margin: 50px;
+  text-align: center;
+}
+
+
+h1 {
+font-size: 65px;
+color: black;
+text-align: center;
+}
+
+
+h2 {
+ font-size: 60px;
+ color: black;
+ text-align: center;
+}
+
+h3 {
+  font-size: 55px;
+  color: black;
+  text-align: center;
+ }
+
+a {
+  font-size: 25px;
+  background-color: gold;
+}
+
+p {
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  margin: 50px;
+  align-self: center;
+  margin-block-start: 50px;
+}
